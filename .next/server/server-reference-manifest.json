@@ -1,0 +1,142 @@
+{
+  "node": {
+    "08152e4a20032e2ac069bb50bc63471fb52eaca0": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22getAllEvents%22%2C%22deleteEvent%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22createCategory%22%2C%22getAllCategories%22%5D%5D%2C%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22getAllEvents%22%2C%22deleteEvent%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22getAllEvents%22%2C%22deleteEvent%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%2C%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Forder.actions.ts%22%2C%5B%22getOrdersByUser%22%2C%22getOrdersByEvent%22%2C%22checkoutOrder%22%2C%22createOrder%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc",
+        "app/(root)/events/create/page": "action-browser",
+        "app/(root)/profile/page": "rsc"
+      }
+    },
+    "4207102588faf825e8b856b4ebea0bf902cdca5d": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22getAllEvents%22%2C%22deleteEvent%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22createCategory%22%2C%22getAllCategories%22%5D%5D%2C%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22getAllEvents%22%2C%22deleteEvent%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22getAllEvents%22%2C%22deleteEvent%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%2C%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Forder.actions.ts%22%2C%5B%22getOrdersByUser%22%2C%22getOrdersByEvent%22%2C%22checkoutOrder%22%2C%22createOrder%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc",
+        "app/(root)/events/create/page": "action-browser",
+        "app/(root)/profile/page": "rsc"
+      }
+    },
+    "5d1450f627403b8704bc9794d9e829c45a660af5": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22getAllEvents%22%2C%22deleteEvent%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22createCategory%22%2C%22getAllCategories%22%5D%5D%2C%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22getAllEvents%22%2C%22deleteEvent%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22getAllEvents%22%2C%22deleteEvent%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%2C%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Forder.actions.ts%22%2C%5B%22getOrdersByUser%22%2C%22getOrdersByEvent%22%2C%22checkoutOrder%22%2C%22createOrder%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc",
+        "app/(root)/events/create/page": "action-browser",
+        "app/(root)/profile/page": "rsc"
+      }
+    },
+    "a3eaed495a6dc360b5b9a3ee5d7d9f9bd719f05b": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22getAllEvents%22%2C%22deleteEvent%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22createCategory%22%2C%22getAllCategories%22%5D%5D%2C%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22getAllEvents%22%2C%22deleteEvent%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22getAllEvents%22%2C%22deleteEvent%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%2C%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Forder.actions.ts%22%2C%5B%22getOrdersByUser%22%2C%22getOrdersByEvent%22%2C%22checkoutOrder%22%2C%22createOrder%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc",
+        "app/(root)/events/create/page": "action-browser",
+        "app/(root)/profile/page": "rsc"
+      }
+    },
+    "dbe6fae65e27c87d56c00f2e473305765d017729": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22getAllEvents%22%2C%22deleteEvent%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22createCategory%22%2C%22getAllCategories%22%5D%5D%2C%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22getAllEvents%22%2C%22deleteEvent%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22getAllEvents%22%2C%22deleteEvent%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%2C%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Forder.actions.ts%22%2C%5B%22getOrdersByUser%22%2C%22getOrdersByEvent%22%2C%22checkoutOrder%22%2C%22createOrder%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc",
+        "app/(root)/events/create/page": "action-browser",
+        "app/(root)/profile/page": "rsc"
+      }
+    },
+    "dbf4e462e561185af8841bb453860ab405f29a59": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22getAllEvents%22%2C%22deleteEvent%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22createCategory%22%2C%22getAllCategories%22%5D%5D%2C%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22getAllEvents%22%2C%22deleteEvent%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22getAllEvents%22%2C%22deleteEvent%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%2C%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Forder.actions.ts%22%2C%5B%22getOrdersByUser%22%2C%22getOrdersByEvent%22%2C%22checkoutOrder%22%2C%22createOrder%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc",
+        "app/(root)/events/create/page": "action-browser",
+        "app/(root)/profile/page": "rsc"
+      }
+    },
+    "e561a7a59071a3764d2e20d0e7f8bd2ddb5ca013": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22getAllEvents%22%2C%22deleteEvent%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22createCategory%22%2C%22getAllCategories%22%5D%5D%2C%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22getAllEvents%22%2C%22deleteEvent%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22getAllEvents%22%2C%22deleteEvent%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%2C%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Forder.actions.ts%22%2C%5B%22getOrdersByUser%22%2C%22getOrdersByEvent%22%2C%22checkoutOrder%22%2C%22createOrder%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc",
+        "app/(root)/events/create/page": "action-browser",
+        "app/(root)/profile/page": "rsc"
+      }
+    },
+    "2786cd055d5987c415a191156eef4cfbaa3136ac": {
+      "workers": {
+        "app/(root)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22createCategory%22%2C%22getAllCategories%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/events/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22createCategory%22%2C%22getAllCategories%22%5D%5D%2C%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22getAllEvents%22%2C%22deleteEvent%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/page": "action-browser",
+        "app/(root)/events/create/page": "action-browser"
+      }
+    },
+    "84670c37d60f4aa0c16bb228f24213ddd10e2a80": {
+      "workers": {
+        "app/(root)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22createCategory%22%2C%22getAllCategories%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/events/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22createCategory%22%2C%22getAllCategories%22%5D%5D%2C%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22getAllEvents%22%2C%22deleteEvent%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/page": "action-browser",
+        "app/(root)/events/create/page": "action-browser"
+      }
+    },
+    "2f8741ba9a09e2de8ca200bb8438c232b96d7b9e": {
+      "workers": {
+        "app/(root)/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22getAllEvents%22%2C%22deleteEvent%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%2C%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Forder.actions.ts%22%2C%5B%22getOrdersByUser%22%2C%22getOrdersByEvent%22%2C%22checkoutOrder%22%2C%22createOrder%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/profile/page": "rsc"
+      }
+    },
+    "5d3b5381556cea773e3674e14737b42bfd37e046": {
+      "workers": {
+        "app/(root)/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22getAllEvents%22%2C%22deleteEvent%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%2C%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Forder.actions.ts%22%2C%5B%22getOrdersByUser%22%2C%22getOrdersByEvent%22%2C%22checkoutOrder%22%2C%22createOrder%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/profile/page": "rsc"
+      }
+    },
+    "8ef28afb5bf47b57e4509c9d60e2e92449eff87b": {
+      "workers": {
+        "app/(root)/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22getAllEvents%22%2C%22deleteEvent%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%2C%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Forder.actions.ts%22%2C%5B%22getOrdersByUser%22%2C%22getOrdersByEvent%22%2C%22checkoutOrder%22%2C%22createOrder%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/profile/page": "rsc"
+      }
+    },
+    "c01c655dd59a537d93c29e7d13726f16b984e94d": {
+      "workers": {
+        "app/(root)/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22getAllEvents%22%2C%22deleteEvent%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%2C%5B%22%2FUsers%2Fhyperx_retr0%2FDevelopment%2FWeb%20Tech%2Fevent_platform%2Flib%2Factions%2Forder.actions.ts%22%2C%5B%22getOrdersByUser%22%2C%22getOrdersByEvent%22%2C%22checkoutOrder%22%2C%22createOrder%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/profile/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "kCsZ0ms+8r27y+CCEfQuL8WGx4/Qp0fG3qEW9TA38Kc="
+}
